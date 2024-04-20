@@ -1,0 +1,6 @@
+env
+node_modules
+components
+migrations
+__pycache__
+sftp-config.json
