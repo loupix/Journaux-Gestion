@@ -1,0 +1,9 @@
+# Django/Python related
+.venv
+.vscode
+migrations
+
+# Python related
+__pycache__
+__init__.py
+db.sqlite3
